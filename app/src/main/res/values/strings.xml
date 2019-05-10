@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MarginPaddingGravity</string>
+    <string name="action_settings">Settings</string>
+    <string name="tv_label_1">TextView 1</string>
+    <string name="tv_label_2">TextView 2</string>
+    <string name="tv_label_3">TextView 3</string>
+    <string name="title_activity_main_padding">main_padding</string>
+</resources>
